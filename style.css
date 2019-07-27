@@ -1,0 +1,43 @@
+body {  
+font-family: tahoma; 
+font-size: 11px; 
+color: #000000; 
+background-color: #000000;
+scrollbar-arrow-color: #FFFFFF; 
+scrollbar-base-color: #000000; 
+scrollbar-darkshadow-color: #000000; 
+scrollbar-track-color: #000000; 
+scrollbar-face-color: #FF2993; 
+scrollbar-shadow-color: #FF2993; 
+scrollbar-highlight-color: #FFFFFF; 
+scrollbar-3d-light-color: #000000;}
+
+table {  font-size: 11px}
+
+.contents {  text-align: justify}
+
+.tab {
+	border: #000000 1px solid;
+}
+
+.head {
+	color:#000000;
+	font-weight: bold;
+	background-color: #FF2993;
+	border: #FF2993;
+	padding-left: 2px;
+ 
+}
+
+a:active {  
+color:#FFFFFF; 
+text-decoration: none; font-weight: normal;}
+
+a:hover {  
+color: #FFFFFF; position: relative; left: 1px; top: 1px;
+text-decoration: none; cursor:crosshair;}
+
+a:link {  color: #FF2993; 
+text-decoration: none; font-weight: normal;}
+
+a:visited {  color: #FF2993; text-decoration: none; font-weight: normal;}

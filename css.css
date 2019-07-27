@@ -1,0 +1,77 @@
+
+BODY {
+  background-image: url(pics/bg.gif);
+  background-attachment:fixed;
+  scrollbar-arrow-color: #FFFFFF;
+  scrollbar-track-color: #000000;
+  scrollbar-face-color: #000000;
+  scrollbar-highlight-color: #FFFFFF;
+  scrollbar-3dlight-color: #000000;
+  scrollbar-darkshadow-color: #000000;
+  scrollbar-shadow-color: gray;
+font-style: normal; 
+font-variant: normal; 
+font-weight: bold; 
+font-size: 10px; 
+font-family: Verdana; 
+background-color:#ffffff;
+background-repeat:x;
+color:#000000; 
+margin:0;}
+
+A:link {text-decoration: none;
+font-weight:bold;
+color:#000000}
+
+A:visited {text-decoration: none; 
+font-weight:bold;
+color:#000000}
+
+A:active {text-decoration: none; 
+font-weight:bold;
+color:#000000}
+
+A:hover {color: #FFFFFF; filter:fliph;height:1; text-decoration: underline; cursor:crosshair; ]
+
+
+
+.head      
+{color:#FFFFFF;
+font-weight: bold; 
+padding-left: 0px;
+font-size: 10px;
+border: 0 solid #000000;
+background-color:none;}
+
+td
+{color:#FFFFFF;
+font-weight: bold; 
+padding-left: 0px;
+font-size: 10px;
+border: 1 solid #000000;
+background-color:none;}
+
+hr 
+{color:#000000;
+ }
+
+<!--
+BODY{
+cursor:url("http://freepgs.com/pinkgoddess/cursors/9.ani");
+}
+-->
+
+<!--
+input { 
+       color: #000000;
+       background: transparent;
+       font-size: 10px;
+       font-weight: normal;
+       text-decoration: none;
+       font-family: VERDANA; 
+       text-align: center;
+       border-width: 1px;
+       border-style: solid;
+       border-color:#000000; 
+-->
+
